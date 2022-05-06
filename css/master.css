@@ -108,6 +108,7 @@ a {
     left: 0;
     background-color: #f7f7f7;
     width: 100%;
+    z-index: 1;
   }
   .header .container .main-menu > ul > li:not(:last-child) {
     border-bottom: 1px dashed #a1a1a1;
