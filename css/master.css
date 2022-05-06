@@ -145,6 +145,7 @@ a {
   position: absolute;
   top: 80%;
   background-color: #f7f7f7;
+  z-index: 1;
 }
 .header .container .main-ul > li:hover .sub-menu {
   display: block;
